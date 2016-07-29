@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HelloWorld.xcodeproj">
+      location = "self:/Users/HJ/Desktop/HelloWorld/FirstKadaiApp.xcodeproj">
    </FileRef>
 </Workspace>

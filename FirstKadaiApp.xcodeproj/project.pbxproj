@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 26B6E14D1D2BF0C700B6247B /* Build configuration list for PBXProject "HelloWorld" */;
+			buildConfigurationList = 26B6E14D1D2BF0C700B6247B /* Build configuration list for PBXProject "FirstKadaiApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -272,7 +272,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		26B6E14D1D2BF0C700B6247B /* Build configuration list for PBXProject "HelloWorld" */ = {
+		26B6E14D1D2BF0C700B6247B /* Build configuration list for PBXProject "FirstKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				26B6E1621D2BF0C700B6247B /* Debug */,
@@ -288,6 +288,7 @@
 				26B6E1661D2BF0C700B6247B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

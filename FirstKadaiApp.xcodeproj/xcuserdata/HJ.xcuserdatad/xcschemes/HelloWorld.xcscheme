@@ -17,7 +17,7 @@
                BlueprintIdentifier = "26B6E1511D2BF0C700B6247B"
                BuildableName = "HelloWorld.app"
                BlueprintName = "HelloWorld"
-               ReferencedContainer = "container:HelloWorld.xcodeproj">
+               ReferencedContainer = "container:FirstKadaiApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "26B6E1511D2BF0C700B6247B"
             BuildableName = "HelloWorld.app"
             BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            ReferencedContainer = "container:FirstKadaiApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "26B6E1511D2BF0C700B6247B"
             BuildableName = "HelloWorld.app"
             BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            ReferencedContainer = "container:FirstKadaiApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "26B6E1511D2BF0C700B6247B"
             BuildableName = "HelloWorld.app"
             BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            ReferencedContainer = "container:FirstKadaiApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
